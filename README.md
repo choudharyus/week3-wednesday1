@@ -125,6 +125,7 @@ Are you ready for a tropical vacation ... I mean, a haircut?
 2. User stories!  Write user stories from the perspective of the user: "As a user I want to be able to click on x and have y happen" or “As a ____, I need a ____ in order to ____”.
 
 :pencil2: [Writing Good User Stories - free codecamp](https://www.freecodecamp.org/news/how-and-why-to-write-great-user-stories-f5a110668246/)
+<br>
 :pencil2: [Writing Good User Stories - romanpichler](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
 
 
