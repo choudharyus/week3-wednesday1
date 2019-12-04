@@ -148,5 +148,7 @@ Share your user stories in the tech-talk channel as you write them!
 # Even more Resources!
 
 📷[UX Lore on instagram](https://www.instagram.com/uxlore/?hl=en)
+
 🏀[Dribble](https://dribbble.com/)
+
 📦[Interactive > UI/UX: Behance](https://www.behance.net/galleries/interaction/ui-ux)
