@@ -144,3 +144,9 @@ Share your user stories in the tech-talk channel as you write them!
 :book: [The Design of Everyday Things](http://a.co/7wYcUD5)
 
 :movie_camera: [CSS Design Tips](https://www.youtube.com/watch?v=M1syJPviLkU&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J&index=13)
+
+# Even more Resources!
+
+📷[UX Lore on instagram](https://www.instagram.com/uxlore/?hl=en)
+🏀[Dribble](https://dribbble.com/)
+📦[Interactive > UI/UX: Behance](https://www.behance.net/galleries/interaction/ui-ux)
