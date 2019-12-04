@@ -124,7 +124,9 @@ Are you ready for a tropical vacation ... I mean, a haircut?
 1. Share your projects with your friends, family, and fellow classmates!  The best way to find fault in a project is for someone else to try and use it.  Try to give them as little outside instruction as possible.
 2. User stories!  Write user stories from the perspective of the user: "As a user I want to be able to click on x and have y happen" or “As a ____, I need a ____ in order to ____”.
 
-:pencil2: [Writing Good User Stories](http://www.mariaemerson.com/user-stories/)
+:pencil2: [Writing Good User Stories - free codecamp](https://www.freecodecamp.org/news/how-and-why-to-write-great-user-stories-f5a110668246/)
+:pencil2: [Writing Good User Stories - romanpichler](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
+
 
 # Exercise
 
